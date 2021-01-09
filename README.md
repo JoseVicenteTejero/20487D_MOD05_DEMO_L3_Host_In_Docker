@@ -223,6 +223,70 @@ Hay que tomar datos de la pestaña App Credentials.
 
 ### 
 
+###   
+
+### # Lesson 4: Implementing Serverless Services
+
+### ### Demonstration: HTTP-triggered Azure Function
+
+### ![img](clip_image003.png)
+
+### ![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image005.png)
+
+###  
+
+### ![img](clip_image007.png)
+
+###  
+
+### ![img](clip_image009.png)
+
+### ![*](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png) 
+
+### ![*](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png) ![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image010.png)
+
+### ![img](clip_image012.png)
+
+###  
+
+### ![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image014.png)
+
+###  
+
+### Demonstration: Developing, Testing, and Publishing an Azure Function from CLI
+
+### ![img](clip_image016.png)
+
+### ![img](clip_image018.png)
+
+###  
+
+### ![img](clip_image020.png)
+
+###  
+
+### ![img](clip_image022.png)
+
+###  
+
+### ![img](clip_image024.png)
+
+###  
+
+### ![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image026.png)
+
+### ![img](clip_image028.png)
+
+###  
+
+### ![img](clip_image030.png)
+
+### ![img](clip_image032.png)
+
+### ![img](clip_image034.png)
+
+###  
+
 ###  
 
 ###  
@@ -265,6 +329,13 @@ Hay que tomar datos de la pestaña App Credentials.
 
  
 
+ 
+
+ 
+
+ 
+
+ 
  
 
  
