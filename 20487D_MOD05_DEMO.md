@@ -10,17 +10,17 @@
 
  
 
-![img]clip_image002.png)
+![img](clip_image002.png)
 
-![img]clip_image004.png)
-
- 
-
-![img]clip_image006.png)
+![img](clip_image004.png)
 
  
 
-![img]clip_image008.png)
+![img](clip_image006.png)
+
+ 
+
+![img](clip_image008.png)
 
  
 
@@ -28,7 +28,7 @@ Creamos el servicio:
 
  
 
-![img]clip_image010.png)
+![img](clip_image010.png)
 
  
 
@@ -36,7 +36,7 @@ Lo arrancamos:
 
  
 
-![img]clip_image012.png)
+![img](clip_image012.png)
 
  
 
@@ -50,39 +50,39 @@ Paramos el servicio:
 
  
 
-![img]clip_image015.png)
+![img](clip_image015.png)
 
 Los borramos:
 
  
 
-![img]clip_image017.png)
+![img](clip_image017.png)
 
 ### Demonstration: Hosting ASP.NET Core Services in IIS
 
-![img]clip_image019.png)
+![img](clip_image019.png)
 
  
 
-![img]clip_image020.png)
+![img](clip_image020.png)
 
  
 
-![img]clip_image022.png)
+![img](clip_image022.png)
 
-![img]clip_image024.png)
-
- 
-
-![img]clip_image026.png)
+![img](clip_image024.png)
 
  
 
-![img]clip_image028.png)
+![img](clip_image026.png)
+
+ 
+
+![img](clip_image028.png)
 
 Pulsamos en “Examinar sitio web”
 
-![img]clip_image030.png)
+![img](clip_image030.png)
 
  
 
@@ -90,7 +90,7 @@ Añadimos ruta:
 
  
 
-![img]clip_image031.png)
+![img](clip_image031.png)
 
  
 
@@ -100,11 +100,11 @@ Añadimos ruta:
 
  
 
-![img]clip_image033.png)
+![img](clip_image033.png)
 
  
 
-![img]clip_image035.png)
+![img](clip_image035.png)
 
  
 
@@ -114,17 +114,17 @@ Password55_?
 
 Hay que tomar datos de la pestaña App Credentials.
 
-![img]clip_image037.png)
+![img](clip_image037.png)
 
-![img]clip_image039.png)
-
- 
-
-![img]clip_image041.png)
+![img](clip_image039.png)
 
  
 
-![img]clip_image043.png)
+![img](clip_image041.png)
+
+ 
+
+![img](clip_image043.png)
 
  
 
@@ -132,19 +132,19 @@ Hay que tomar datos de la pestaña App Credentials.
 
  
 
-![img]clip_image047.png)
+![img](clip_image047.png)
 
  
 
 ![img](clip_image049.png)
 
-![img]clip_image051.png)![img]clip_image053.png)
+![img](clip_image051.png)![img](clip_image053.png)
 
-![img]clip_image055.png)
+![img](clip_image055.png)
 
-![img]clip_image057.png)
+![img](clip_image057.png)
 
-![img]clip_image059.png)
+![img](clip_image059.png)
 
  
 
@@ -156,61 +156,125 @@ Hay que tomar datos de la pestaña App Credentials.
 
  
 
-![img]clip_image063.png)
+![img](clip_image063.png)
 
-![img]clip_image065.png)
+![img](clip_image065.png)
 
-![img]clip_image067.png)
+![img](clip_image067.png)
 
-![img]clip_image069.png)
+![img](clip_image069.png)
 
-![img]clip_image070.png)
+![img](clip_image070.png)
 
 ### Demonstration: Publishing into a Container
 
-### ![img]clip_image072.png)
+### ![img](clip_image072.png)
 
-### ![img]clip_image074.png)
+### ![img](clip_image074.png)
 
 ### docker build -t hotels_services -f .\Host_In_Docker\Dockerfile .
 
 ### Para ejecutar el fichero dockerfile creado en Visual code
 
-### ![img]clip_image076.png)
+### ![img](clip_image076.png)
 
 ###  
 
 ### Es la imagen creada:
 
-### ![img]clip_image078.png)
+### ![img](clip_image078.png)
 
-### ![img]clip_image080.png)
+### ![img](clip_image080.png)
 
 ### ![img](clip_image082.png)
 
-### ![img]clip_image084.png)
+### ![img](clip_image084.png)
 
 ###  
 
-### ![img]clip_image085.png)
+### ![img](clip_image085.png)
 
-### ![img]clip_image087.png)
-
-###  
-
-### ![img]clip_image089.png)
+### ![img](clip_image087.png)
 
 ###  
 
-### ![img]clip_image091.png)
+### ![img](clip_image089.png)
+
+###  
+
+### ![img](clip_image091.png)
 
 ### El resultado_
 
-### ![img]clip_image093.png)
+### ![img](clip_image093.png)
 
 ###  
 
 ### 
+
+###   
+
+### # Lesson 4: Implementing Serverless Services
+
+### ### Demonstration: HTTP-triggered Azure Function
+
+### ![img](clip_image003.png)
+
+### ![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image005.png)
+
+###  
+
+### ![img](clip_image007.png)
+
+###  
+
+### ![img](clip_image009.png)
+
+### ![*](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png) 
+
+### ![*](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png) ![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image010.png)
+
+### ![img](clip_image012.png)
+
+###  
+
+### ![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image014.png)
+
+###  
+
+### Demonstration: Developing, Testing, and Publishing an Azure Function from CLI
+
+### ![img](clip_image016.png)
+
+### ![img](clip_image018.png)
+
+###  
+
+### ![img](clip_image020.png)
+
+###  
+
+### ![img](clip_image022.png)
+
+###  
+
+### ![img](clip_image024.png)
+
+###  
+
+### ![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image026.png)
+
+### ![img](clip_image028.png)
+
+###  
+
+### ![img](clip_image030.png)
+
+### ![img](clip_image032.png)
+
+### ![img](clip_image034.png)
+
+###  
 
 ###  
 
